@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yk.i@yahoo.com**
 
-- ⚡ Fun fact **I thing i am weird**
+- ⚡ Fun fact **I think i am weird**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
