@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://imgflip.com/m/ai_memes" width="512px"/>
+<img src="https://imgflip.com/ai-meme" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=avicenaa&icon=5&color=1)](https://visitcount.itsvg.in)
