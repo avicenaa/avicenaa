@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in SMKN 2 Depok Sleman<br>🌱 I’m currently learning zig & golang<br>💬 Ask me about data mining/crawling<br>
+🔭 I’m currently studying at SMKN 2 Depok Sleman<br>🌱 I’m currently learning zig & golang<br>💬 Ask me about data mining/crawling<br>
 
 
 ## 🌐 Socials:
